@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Hello_User\bin\Debug\net6.0\Hello_User.exe
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Hello_User\bin\Debug\net6.0\Hello_User.deps.json
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Hello_User\bin\Debug\net6.0\Hello_User.runtimeconfig.json
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Hello_User\bin\Debug\net6.0\Hello_User.dll
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Hello_User\bin\Debug\net6.0\Hello_User.pdb
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Hello_User\obj\Debug\net6.0\Hello_User.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Hello_User\obj\Debug\net6.0\Hello_User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Hello_User\obj\Debug\net6.0\Hello_User.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Hello_User\obj\Debug\net6.0\Hello_User.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Hello_User\obj\Debug\net6.0\Hello_User.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Hello_User\obj\Debug\net6.0\Hello_User.dll
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Hello_User\obj\Debug\net6.0\refint\Hello_User.dll
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Hello_User\obj\Debug\net6.0\Hello_User.pdb
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Hello_User\obj\Debug\net6.0\Hello_User.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Hello_User\obj\Debug\net6.0\ref\Hello_User.dll
