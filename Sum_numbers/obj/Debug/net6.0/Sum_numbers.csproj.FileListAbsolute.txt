@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Sum_numbers\bin\Debug\net6.0\Sum_numbers.exe
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Sum_numbers\bin\Debug\net6.0\Sum_numbers.deps.json
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Sum_numbers\bin\Debug\net6.0\Sum_numbers.runtimeconfig.json
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Sum_numbers\bin\Debug\net6.0\Sum_numbers.dll
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Sum_numbers\bin\Debug\net6.0\Sum_numbers.pdb
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Sum_numbers\obj\Debug\net6.0\Sum_numbers.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Sum_numbers\obj\Debug\net6.0\Sum_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Sum_numbers\obj\Debug\net6.0\Sum_numbers.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Sum_numbers\obj\Debug\net6.0\Sum_numbers.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Sum_numbers\obj\Debug\net6.0\Sum_numbers.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Sum_numbers\obj\Debug\net6.0\Sum_numbers.dll
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Sum_numbers\obj\Debug\net6.0\refint\Sum_numbers.dll
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Sum_numbers\obj\Debug\net6.0\Sum_numbers.pdb
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Sum_numbers\obj\Debug\net6.0\Sum_numbers.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Лекции\Lesson 1\Sum_numbers\obj\Debug\net6.0\ref\Sum_numbers.dll
