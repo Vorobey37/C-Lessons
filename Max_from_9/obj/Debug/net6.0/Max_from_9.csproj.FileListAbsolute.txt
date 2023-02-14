@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Max_from_9\bin\Debug\net6.0\Max_from_9.exe
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Max_from_9\bin\Debug\net6.0\Max_from_9.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Max_from_9\bin\Debug\net6.0\Max_from_9.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Max_from_9\bin\Debug\net6.0\Max_from_9.dll
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Max_from_9\bin\Debug\net6.0\Max_from_9.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Max_from_9\obj\Debug\net6.0\Max_from_9.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Max_from_9\obj\Debug\net6.0\Max_from_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Max_from_9\obj\Debug\net6.0\Max_from_9.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Max_from_9\obj\Debug\net6.0\Max_from_9.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Max_from_9\obj\Debug\net6.0\Max_from_9.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Max_from_9\obj\Debug\net6.0\Max_from_9.dll
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Max_from_9\obj\Debug\net6.0\refint\Max_from_9.dll
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Max_from_9\obj\Debug\net6.0\Max_from_9.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Max_from_9\obj\Debug\net6.0\Max_from_9.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_2\Max_from_9\obj\Debug\net6.0\ref\Max_from_9.dll
